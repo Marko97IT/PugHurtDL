@@ -1,3 +1,7 @@
+v1.200730
+[=] Migration of hosting service from Pastebin to GitHub;
+[=] Updated ToS.
+
 v1.200726
 [=] Fixed an issue when during the update you'll get TLS/SSL error.
 
