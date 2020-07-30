@@ -1,0 +1,79 @@
+v1.200726
+[=] Fixed an issue when during the update you'll get TLS/SSL error.
+
+v1.200723
+[=] Updated graphic libs;
+[=] Improved injection method.
+
+v1.200721
+[=] Fixed some bugs;
+[=] Fixed get/set saved configuration;
+[=] Fixed UI freeze during injection process;
+[+] Added "Reinstall Roblox" feature (available in Options menu).
+
+v1.200719
+[=] Fixed some bugs;
+[=] Fixed workspace directory not found;
+[=] Changed purge Roblox process time from 5 minutes to 1 minute;
+[=] Moved toogles in a submenu on Main GUI;
+[+] Added Server joiner feature (available in Utilities menu)*.
+* This feature is in BETA stage therefore it may contain bugs and needs further improvement.
+
+v1.200521:
+[=] Fixed some bugs;
+[+] Added Terms of Service and Privacy Policy;
+[+] Added autoexecute script feature (available in Options menu).
+
+v1.200517:
+[=] Fixed some bugs;
+[=] Improved stability;
+[+] New configuration file system;
+[+] Added Multi instances feature.
+
+v1.200511b:
+[=] Improved custom background feature;
+[+] Added animated images support for custom background.
+
+v1.200511:
+[+] Added custom background feature (available in Options menu).
+
+v1.200509:
+[=] Fixed TextEditor bug while loading an extremely complex script;
+[=] Fixed some bugs on saved script list;
+[=] Improved performance;
+[+] Added refresh option on saved script list;
+[+] Added .txt format support on saved script list;
+[+] Added drag and drop;
+[+] Unlocked resize mode.
+
+v1.200508:
+[+] Added the Script Hub (Utilities).
+
+v1.200502:
+[=] Fixed some bugs;
+[=] Improved stability;
+[+] Fixed slow start issue;
+[+] Added FPS unlock (toggleable);
+[+] Added Autoclicker (Utilies).
+
+v1.200430:
+[=] Improved UI;
+[=] Fixed some bugs;
+[+] Added autoupdate system;
+[-] Removed "Scripts hunter" in Utilities.
+
+v1.200429 (first release):
+[+] Made with WPF;
+[+] NO SirHurtAPI;
+[+] Automatic update, no boostrap needed;
+[+] Multi tab support;
+[+] Saved scripts list;
+[+] Utilities menu (dex explorer, remotespy, scripts hunter, server joiner);
+[+] Autoinject (toggleable);
+[+] Topmost (toggleable);
+[+] Save scripts on exit (toggleable);
+[+] Auto purge Roblox process every 5 minutes (toggleable);
+[+] Fast shortcuts for SirHurt APIs and SirHurt Discord;
+[+] Random exploit dll name for more security;
+[+] A good editor;
+[+] Pug icon (all people love pugs).
