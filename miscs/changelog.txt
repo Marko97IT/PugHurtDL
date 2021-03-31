@@ -1,3 +1,15 @@
+v1.210331*
+[=] Updated libs;
+[=] Refactored code;
+[=] Improved configuration system;
+[=] Improved security system;
+[=] Improved custom background feature;
+[=] Improved injection method;
+[=] Fixed some bugs;
+[=] Updated ToS;
+[+] Added a new feature: "Inject if VPN connected";
+[-] Removed "Server joiner".
+
 v1.201227
 [=] Updated libs;
 [=] Fixed get/set saved configuration;
