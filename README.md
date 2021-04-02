@@ -3,10 +3,10 @@
 This repository will contain all versions of PugHurt.
 Download the last version in Releases.
 
-**PugHurt v1.201227**
+**PugHurt v1.210402**
 
 • Features •
-- Auto updates (you don't need to use the bootstrapper to update dlls;
+- Auto updates (you don't need to use the bootstrapper to update dlls);
 - Vectorial and friendly UI (WPF);
 - Fast and powerful script editor;
 - Script hub by SirHurt;
@@ -17,8 +17,8 @@ Download the last version in Releases.
 - Privacy protection: PugHurt doesn't get any information about you and your device.
 
 • Download •
-- Download link: https://github.com/Marko97IT/PugHurtDL/releases/download/v1.201227/PugHurt.exe
-- VT link: https://www.virustotal.com/gui/file/2d252d71dd815ee4aa04682d3ddc20ee04d706bc0e938f8c1637e749e52cc3e4/details
+- Download link: https://github.com/Marko97IT/PugHurtDL/releases/download/v1.210402/PugHurt.exe
+- VT link: https://www.virustotal.com/gui/file/d7e2ea299ecbfee78d9251d3a47b8167de990900357bf78b2e8b17be084e6f3e/details
 - Preview: https://i.imgur.com/b6NvaAc.png
 
 • Notes •
