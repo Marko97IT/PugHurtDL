@@ -1,4 +1,9 @@
-v1.210331*
+v1.210402
+[=] Improved security system;
+[=] Fixed a problem which did not allow PugHurt to work in the configuration phase;
+[+] Added a local log system;
+
+v1.210331
 [=] Updated libs;
 [=] Refactored code;
 [=] Improved configuration system;
