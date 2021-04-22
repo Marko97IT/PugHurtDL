@@ -1,0 +1,18 @@
+if setfflag then
+	setfflag("CrashUploadToBacktraceUrl", "")
+	setfflag("CrashpadUploadToBacktraceUrl", "")
+	setfflag("CrashUploadToBacktracePercentage", 0)
+	setfflag("CrashUploadToBacktraceWindowsPlayerToken", "")
+	setfflag("CrashUploadToBacktraceBlackholeToken", "")
+	setfflag("DebugCrashEnabled", false)
+	setfflag("GoogleAnalyticsAccountPropertyID", "")
+	setfflag("WindowsLaunchTypeAnalytics", false)
+	setfflag("AbuseReportScreenshot", false)
+	setfflag("AbuseReportScreenshotPercentage", 0)
+	setfflag("TelegrafHTTPTransportUrl", "")
+	setfflag("EnableGCapsHardwareTelemetry", false)
+	setfflag("EnableExtendedHardwareTelemetry", false)
+	setfflag("EnableInferredOOMTelemetry", false)
+	setfflag("EnableHardwareTelemetry", false)
+	setfflag("HardwareTelemetryHundredthsPercent", 0)
+end
