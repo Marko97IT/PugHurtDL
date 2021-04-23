@@ -1,3 +1,14 @@
+v1.210423
+[=] Updated libs;
+[=] Refactored code;
+[=] Fixed multi instances feature;
+[=] Improved injection method;
+[+] Added "Check telemetry" feature*;
+[+] Added "Alternative loadstring" feature*;
+[+] Added a shortcut to see logs;
+[+] Added a security thing that prevent users to begin scammed;
+* See notes here: https://github.com/Marko97IT/PugHurtDL#readme
+
 v1.210402
 [=] Improved security system;
 [=] Fixed a problem which did not allow PugHurt to work in the configuration phase;
