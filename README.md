@@ -18,7 +18,7 @@ Download the last version in Releases.
 
 • Download •
 - Download link: https://github.com/Marko97IT/PugHurtDL/releases/download/v1.210423/PugHurt.exe
-- Preview: https://i.imgur.com/b6NvaAc.png
+- Preview: https://i.imgur.com/qHcIz9q.png
 
 • Notes •
 - False positives due to code obfuscation method;
