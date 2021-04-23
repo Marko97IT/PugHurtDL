@@ -14,6 +14,8 @@ Download the last version in Releases.
 - Some useful features like "auto purge Roblox", "FPS unlocker", "multi instances", etc ...;
 - A shortcut to reinstall Roblox if injection failed;
 - Custom background (supported also animated GIFs);
+- A system that check and disable the Roblox telemetry;
+- An alternative loadstring if legacy loadstring not work;
 - Privacy protection: PugHurt doesn't get any information about you and your device.
 
 • Download •
