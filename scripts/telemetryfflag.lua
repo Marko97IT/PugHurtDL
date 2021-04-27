@@ -17,7 +17,7 @@ if setfflag then
 	setfflag("HardwareTelemetryHundredthsPercent", 0)
 end
 
-if getgenv and checkcaller and hookfunction then
+--[[if getgenv and checkcaller and hookfunction then
 	local LocalPlayer = game.Players.PlayerAdded:Wait()
 	local PostMessage = require(LocalPlayer:WaitForChild("PlayerScripts", 1/0):WaitForChild("ChatScript", 1/0):WaitForChild("ChatMain", 1/0)).MessagePosted
 	getgenv().MessageEvent = Instance.new("BindableEvent")
@@ -31,4 +31,4 @@ if getgenv and checkcaller and hookfunction then
 	    return OldFunctionHook(self, msg)
 	end
 	OldFunctionHook = HookFunction(PostMessage.fire, PostMessageHook)
-end
+end]]
