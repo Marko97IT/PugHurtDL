@@ -1,1 +1,1 @@
-4c0136252910ea8174703d560d59439f@https://github.com/Marko97IT/PugHurtDL/releases/download/v1.210423/PugHurt.exe
+6f2550a736db131953fe3fb8a09b1064ec6c17ecfdca72abcaa513b0861674f2370bdbbde40c0a897a0a15caa3888f697c1a3fa92a1f65e93a43143274dc05c6@https://github.com/Marko97IT/PugHurtDL/releases/download/v1.210429/PugHurt.exe
