@@ -1,3 +1,8 @@
+v1.210502
+[=] Fixed some bugs;
+[=] Fixed lag issue;
+[=] Improved log system.
+
 v1.210429
 [=] Fixed dex explorer script;
 [=] Fixed some bugs;
