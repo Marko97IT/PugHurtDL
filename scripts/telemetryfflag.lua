@@ -1,4 +1,4 @@
---[[if setfflag then
+if setfflag then
 	setfflag("CrashUploadToBacktraceUrl", "")
 	setfflag("CrashpadUploadToBacktraceUrl", "")
 	setfflag("CrashUploadToBacktracePercentage", 0)
@@ -15,4 +15,4 @@
 	setfflag("EnableInferredOOMTelemetry", "False")
 	setfflag("EnableHardwareTelemetry", "False")
 	setfflag("HardwareTelemetryHundredthsPercent", 0)
-end]]
+end
