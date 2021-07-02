@@ -3,7 +3,7 @@
 This repository will contain all versions of PugHurt.
 Download the last version in Releases.
 
-**PugHurt v1.210429**
+**PugHurt v1.210703**
 
 • Features •
 - Auto updates (you don't need to use the bootstrapper to update dlls);
@@ -20,7 +20,7 @@ Download the last version in Releases.
 - Privacy protection: PugHurt doesn't get any information about you and your device.
 
 • Download •
-- Download link: https://github.com/Marko97IT/PugHurtDL/releases/download/v1.210429/PugHurt.exe
+- Download link: https://github.com/Marko97IT/PugHurtDL/releases/download/v1.210703/PugHurt.exe
 - Preview: https://i.imgur.com/xl1W86f.png
 
 • Notes •
