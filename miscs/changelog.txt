@@ -1,3 +1,7 @@
+v1.210703
+[=] Fixed a critical bug while configuration loading;
+[=] Updated libs.
+
 v1.210502
 [=] Fixed some bugs;
 [=] Fixed lag issue;
